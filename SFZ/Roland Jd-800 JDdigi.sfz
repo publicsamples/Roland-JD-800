@@ -1,0 +1,40 @@
+// this file was generated from Roland Jd-800 JDdigi.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=21 hikey=22 pitch_keycenter=21 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=352 end=356842 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-21-127.aif
+<group>lokey=23 hikey=27 pitch_keycenter=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=686 end=356480 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-26-127.aif
+<group>lokey=28 hikey=32 pitch_keycenter=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-31-127.aif
+<group>lokey=33 hikey=37 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=686 end=356758 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-36-127.aif
+<group>lokey=38 hikey=42 pitch_keycenter=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-41-127.aif
+<group>lokey=43 hikey=47 pitch_keycenter=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=621 end=358026 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-46-127.aif
+<group>lokey=48 hikey=52 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-51-127.aif
+<group>lokey=53 hikey=57 pitch_keycenter=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=491 end=358402 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-56-127.aif
+<group>lokey=58 hikey=62 pitch_keycenter=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=384 end=357324 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-61-127.aif
+<group>lokey=63 hikey=67 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=305 end=357540 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-66-127.aif
+<group>lokey=68 hikey=72 pitch_keycenter=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=618 end=366062 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-71-127.aif
+<group>lokey=73 hikey=77 pitch_keycenter=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=634 end=371865 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-76-127.aif
+<group>lokey=78 hikey=82 pitch_keycenter=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=762 end=380555 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-81-127.aif
+<group>lokey=83 hikey=87 pitch_keycenter=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=762 end=380034 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-86-127.aif
+<group>lokey=88 hikey=92 pitch_keycenter=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=295 end=386358 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-91-127.aif
+<group>lokey=93 hikey=97 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=668 end=383719 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-96-127.aif
+<group>lokey=98 hikey=102 pitch_keycenter=101 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=298 end=401534 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-101-127.aif
+<group>lokey=103 hikey=107 pitch_keycenter=106 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=456 end=398315 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-106-127.aif
+<group> key=108 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=698 sample=../Audio/Roland Jd-800 JDdigi-SAMPLES/009 DigiSwell-108-127.aif

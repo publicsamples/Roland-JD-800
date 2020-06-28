@@ -1,0 +1,124 @@
+// this file was generated from Roland Jd-800 Bright Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=411 end=324232 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=566 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=402 end=323390 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=708 end=319571 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=724 end=323221 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=351 end=316051 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=615 end=323184 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=306 end=312966 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=427 end=318726 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=590 end=319633 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=426 end=321712 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=660 end=314994 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=682 end=318270 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=708 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=638 end=314654 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=620 end=310803 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=676 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=676 end=308886 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=398 end=313509 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=654 end=310511 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=607 end=310438 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=615 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=508 end=311872 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=417 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=652 end=308023 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=480 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=474 end=311452 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=734 end=311224 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=641 end=312975 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=705 end=313733 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=365 end=310793 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=666 end=311587 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=653 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=670 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=315 end=311171 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=327 end=314851 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=615 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=448 end=315423 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=285 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=468 end=314856 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=631 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=628 end=315657 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=509 end=314903 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=376 end=316179 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=488 end=316678 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=514 end=313358 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=738 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=511 end=319391 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=652 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=669 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=607 end=314180 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=735 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=733 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=612 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=343 end=318441 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=680 end=318239 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=326 end=320913 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=654 end=322266 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=353 end=320567 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=628 end=321314 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=617 sample=../Audio/Roland Jd-800 Bright Lead-SAMPLES/007 Bright Lead-96-127.aif

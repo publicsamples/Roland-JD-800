@@ -1,0 +1,124 @@
+// this file was generated from Roland Jd-800 Ominous.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=455 end=474727 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=433 end=474320 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=399 end=474239 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=637 end=474623 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=320 end=474110 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=404 end=474335 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=367 end=472759 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=351 end=474090 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=340 end=474326 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=701 end=474823 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=497 end=474472 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 end=474741 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=474236 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=697 end=474617 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=343 end=474208 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 end=474236 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=439 end=474608 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=589 end=474234 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=291 end=474493 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=362 end=474360 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 end=474101 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=463 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=722 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 end=474705 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=734 end=474420 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=849 end=474361 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=474348 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=595 end=474487 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=746 end=474496 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=522 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=395 end=474093 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=333 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=608 end=474352 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=741 end=474364 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=519 end=474237 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=348 end=474075 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=292 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=580 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=732 end=474351 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 end=474441 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 end=474464 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=817 end=474622 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=432 end=474614 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=679 end=474585 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=371 end=474235 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=363 end=473787 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=499 end=474107 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=479 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=625 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=710 end=474358 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=474352 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=418 end=474366 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 end=474468 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=773 end=474463 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=474083 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=491 end=474362 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=296 end=473984 sample=../Audio/Roland Jd-800 Ominous-SAMPLES/001 Ominous-96-127.aif

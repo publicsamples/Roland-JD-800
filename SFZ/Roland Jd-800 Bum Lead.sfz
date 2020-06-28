@@ -1,0 +1,124 @@
+// this file was generated from Roland Jd-800 Bum Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=352 end=441119 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=480 end=442234 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=766 end=442644 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=869 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=498 end=441088 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=630 end=442259 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=496 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=759 end=442286 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=457 end=441119 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=303 end=441094 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=764 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=485 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=714 end=442153 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=491 end=441600 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=500 end=441628 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=633 end=442230 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=609 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=375 end=440580 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=490 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=553 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=762 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=351 end=441620 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=701 end=441645 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=853 end=442680 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=703 end=442158 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=698 end=441644 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=687 end=441610 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=762 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=376 end=440618 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=760 end=441600 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=747 end=442161 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=488 end=441125 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=766 end=441600 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=742 end=441616 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=296 end=441109 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=743 end=442119 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=596 end=441088 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=765 end=442139 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=754 end=442119 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=496 end=441624 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=450 end=441600 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=449 end=441099 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=707 end=441618 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=504 end=441621 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=358 end=441603 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=771 end=441617 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=786 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=506 end=441608 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=536 end=441603 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=747 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=457 end=441603 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=482 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=791 end=441621 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=464 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=423 end=441600 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=514 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=291 end=441105 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=692 end=442116 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=482 end=441602 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=411 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=727 end=441089 sample=../Audio/Roland Jd-800 Bum Lead-SAMPLES/000 Bum Lead-96-127.aif
