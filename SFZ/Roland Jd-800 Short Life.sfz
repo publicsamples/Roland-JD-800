@@ -1,124 +1,124 @@
 // this file was generated from Roland Jd-800 Short Life.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=244599 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-36-127.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=573 end=243163 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-37-127.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=622 end=243966 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-38-127.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=587 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-39-127.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=399 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-40-127.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=655 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-41-127.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=346 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-42-127.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=615 end=243318 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-43-127.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=288 end=243584 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-44-127.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=344 end=243441 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-45-127.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 end=243200 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-46-127.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=620 end=243699 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-47-127.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=324 end=242682 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-48-127.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=622 end=243060 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-49-127.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=672 end=243956 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-50-127.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=394 end=243064 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-51-127.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=768 end=201860 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-52-127.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 end=243837 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-53-127.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=403 end=243840 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-54-127.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=780 end=243568 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-55-127.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=445 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-56-127.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=274 end=200448 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-57-127.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=346 end=243562 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-58-127.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=368 end=243307 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-59-127.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=335 end=239997 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-60-127.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=757 end=240216 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-61-127.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=240379 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-62-127.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=239966 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-63-127.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=419 end=240110 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-64-127.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=700 end=239841 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-65-127.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=598 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-66-127.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=463 end=239475 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-67-127.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=432 end=240216 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-68-127.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=462 end=239606 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-69-127.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=421 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-70-127.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=558 end=240248 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-71-127.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=748 end=243792 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-72-127.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=324 end=243163 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-73-127.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=492 end=243070 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-74-127.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=243192 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-75-127.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 end=243065 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-76-127.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=595 end=243323 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-77-127.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=614 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-78-127.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=649 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-79-127.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=434 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-80-127.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=584 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-81-127.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 end=243964 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-82-127.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=494 end=243815 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-83-127.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=404 end=177530 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-84-127.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=598 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-85-127.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=715 end=177811 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-86-127.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=597 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-87-127.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=276 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-88-127.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=331 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-89-127.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=485 end=178318 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-90-127.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=604 end=179328 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-91-127.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=591 end=179084 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-92-127.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=343 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-93-127.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=177536 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-94-127.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=177805 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-95-127.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=683 end=178059 sample=../Audio/Roland Jd-800 Short Life-SAMPLES/002 Short Life-96-127.aif

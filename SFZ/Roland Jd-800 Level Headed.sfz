@@ -1,124 +1,124 @@
 // this file was generated from Roland Jd-800 Level Headed.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=429 end=486370 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-36-127.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=737 end=491411 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-37-127.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=771 end=485941 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-38-127.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=722 end=485962 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-39-127.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=504 end=482232 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-40-127.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=358 end=481122 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-41-127.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=480824 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-42-127.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=298 end=480662 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-43-127.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=783 end=479251 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-44-127.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=671 end=488704 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-45-127.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=737 end=478068 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-46-127.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=512 end=479532 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-47-127.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 end=475303 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-48-127.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=607 end=479772 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-49-127.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=480896 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-50-127.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=654 end=555141 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-51-127.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=712 end=479070 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-52-127.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=687 end=477184 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-53-127.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=680 end=480536 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-54-127.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=479 end=614911 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-55-127.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=754 end=478336 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-56-127.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=442 end=477440 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-57-127.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=388 end=547960 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-58-127.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=620 end=473984 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-59-127.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=723 end=477825 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-60-127.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=598 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-61-127.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=625 end=480768 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-62-127.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-63-127.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=782 end=475392 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-64-127.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=738 end=479232 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-65-127.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=687 end=476160 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-66-127.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=479 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-67-127.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=519 end=476160 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-68-127.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=358 end=473992 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-69-127.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=781 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-70-127.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 end=484638 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-71-127.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=754 end=698165 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-72-127.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=307 end=476672 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-73-127.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=625 end=478208 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-74-127.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=607 end=475776 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-75-127.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=547 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-76-127.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=676 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-77-127.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=729 end=557600 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-78-127.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=657 end=479110 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-79-127.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=370 end=476298 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-80-127.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=289 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-81-127.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=389 end=639376 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-82-127.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=643 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-83-127.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=435 end=474624 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-84-127.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=694 end=656368 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-85-127.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=352 end=496002 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-86-127.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=468 end=475906 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-87-127.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=497 end=475136 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-88-127.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-89-127.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-90-127.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=690 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-91-127.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 end=476288 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-92-127.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=643 end=488561 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-93-127.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=358 end=482176 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-94-127.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=431 end=476928 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-95-127.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=498 sample=../Audio/Roland Jd-800 Level Headed-SAMPLES/003 Level Headed-96-127.aif

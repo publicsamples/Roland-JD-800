@@ -1,124 +1,124 @@
 // this file was generated from Roland Jd-800 Multi-pluck.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341848 loop_end=366886 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-36-127-14KT.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338975 loop_end=364504 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-37-127-HJEV.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340579 loop_end=365849 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-38-127-C4GX.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339139 loop_end=365207 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-39-127-BD35.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369897 loop_end=396166 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-40-127-NMEM.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370343 loop_end=396645 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-41-127-GQGU.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370989 loop_end=396707 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-42-127-U0VM.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369590 loop_end=396160 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-43-127-6R97.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369829 loop_end=396673 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-44-127-51Q6.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369638 loop_end=398023 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-45-127-JRBJ.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370650 loop_end=396709 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-46-127-F4HQ.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370681 loop_end=396352 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-47-127-BO4G.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370480 loop_end=397515 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-48-127-5AZ6.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370190 loop_end=396671 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-49-127-0QY0.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370179 loop_end=397565 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-50-127-RQYE.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369490 loop_end=397440 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-51-127-BI3W.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370750 loop_end=396815 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-52-127-GV7A.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369731 loop_end=398061 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-53-127-Z058.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=371201 loop_end=397576 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-54-127-ZZF7.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=449175 loop_end=475650 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-55-127-MKIW.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=440177 loop_end=472965 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-56-127-XCGN.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=439084 loop_end=466634 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-57-127-ZOZQ.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=449592 loop_end=477124 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-58-127-7I6Z.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=448524 loop_end=476002 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-59-127-KUOB.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=428008 loop_end=455361 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-60-127-WPNQ.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=434563 loop_end=462720 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-61-127-FR5Z.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=442734 loop_end=468956 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-62-127-OA6P.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=440357 loop_end=466825 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-63-127-XQ06.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=431050 loop_end=458054 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-64-127-8DMC.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=431507 loop_end=463320 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-65-127-7AUX.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=428049 loop_end=456280 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-66-127-7D69.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=430930 loop_end=457817 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-67-127-P986.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=426891 loop_end=453919 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-68-127-M8SI.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=371820 loop_end=399956 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-69-127-CUTS.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=430487 loop_end=457926 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-70-127-YVEE.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=442945 loop_end=470363 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-71-127-8E6M.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=444270 loop_end=475679 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-72-127-X8YH.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=426569 loop_end=463450 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-73-127-KZUK.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=430519 loop_end=470884 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-74-127-CR5V.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=421577 loop_end=469193 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-75-127-5CX2.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=425493 loop_end=453512 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-76-127-5STP.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=435155 loop_end=464918 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-77-127-MAZV.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=372295 loop_end=407957 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-78-127-GBAT.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=419888 loop_end=465629 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-79-127-3YNU.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=433912 loop_end=464651 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-80-127-TIXD.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=449885 loop_end=476711 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-81-127-85BG.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=422179 loop_end=448948 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-82-127-PWFI.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=428476 loop_end=458523 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-83-127-1DD3.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=426812 loop_end=454532 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-84-127-DNGA.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=434286 loop_end=464052 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-85-127-8VBP.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=422441 loop_end=450298 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-86-127-OYYR.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=435114 loop_end=462770 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-87-127-RVVG.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=421746 loop_end=451893 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-88-127-JD6I.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=422369 loop_end=448704 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-89-127-PB8P.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=434561 loop_end=459877 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-90-127-O0K6.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=420920 loop_end=450404 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-91-127-GE6A.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=433157 loop_end=465635 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-92-127-OUAL.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=440045 loop_end=468777 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-93-127-E62D.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370877 loop_end=396950 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-94-127-X6XN.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=430159 loop_end=466329 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-95-127-QL39.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=419741 loop_end=452168 sample=../Audio/Roland Jd-800 Multi-pluck-SAMPLES/004 Multi-pluck-96-127-Y824.aif
