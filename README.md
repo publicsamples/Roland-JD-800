@@ -6,6 +6,7 @@ Part synth, part spaceship.
 -   **Formats:** EXS24, Kontakt, NN-XT & SFZ
 -   **Approx Size:** 1.8GB
 -   [wikipedia.org](https://en.wikipedia.org/wiki/Roland_JD-800/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jd800.html)
 
 **This collection requires you to download the audio seperately**
 
