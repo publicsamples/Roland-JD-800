@@ -10,7 +10,7 @@ Part synth, part spaceship.
 
 **This collection requires you to download the audio seperately**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/xz6dooi7wp64max/AACnzdg0vFWgHX6Nbv9_Vji2a?dl=0)
+**[Download Audio](https://github.com/publicsamples/Roland-JD-800/releases/tag/v1.0)**
 
 # Loading
 
