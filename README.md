@@ -10,7 +10,7 @@ Part synth, part spaceship.
 
 **This collection requires you to download the audio seperately**
 
-**[Download Audio](https://github.com/publicsamples/Roland-JD-800/releases/tag/v1.0)**
+**[Download Audio](https://github.com/publicsamples/Roland-JD-800/releases/tag/1.0)**
 
 # Loading
 
